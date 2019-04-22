@@ -10,7 +10,7 @@ From the data we can glean a few insights:
 3. Most of the rides and fares are coming from an Urban city type.
 
 
-## Pyber - Pablo
+## Pyber - Analysis by Pyber Chief Data Scientist, Pablo
 
 
 ```python
